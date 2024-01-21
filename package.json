@@ -1,0 +1,14 @@
+{
+  "name": "e_commerce_condole",
+  "version": "1.0.0",
+  "description": "A simple e-commerce console application using javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
